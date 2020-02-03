@@ -6,3 +6,5 @@ http://mustache.github.io/mustache.5.html
 
 https://freemarker.apache.org/docs/dgui.html
 https://getbootstrap.com/
+
+https://temp-mail.org/
